@@ -7,5 +7,5 @@ ledBlink - https://youtube.com/shorts/lnFjU-7lDdw
 pontentiometerLedControl - https://youtube.com/shorts/ykjGwKztcWI  
 pontentiometerLedControl(Alt) - https://youtube.com/shorts/ukaeR-PDO5E  
 advancedRGBControl - https://youtube.com/shorts/RrFyUhBQpxw  
-advancedProject - https://youtube.com/shorts/u8NWL6xuS3k  
+advancedi2cLCDProject - https://youtube.com/shorts/u8NWL6xuS3k  
 
